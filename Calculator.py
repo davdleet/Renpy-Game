@@ -22,3 +22,19 @@ class Calc:
     def div(self):
         result = self.first / self.second
         print(result)
+
+
+class CalcPlus(Calc):
+    def pow(self):
+        def pow(self):
+            result = self.first ** self.second
+            return result
+
+
+class OverCalc(Calc):
+    def div(self):
+        if self.second == 0:
+            return 0
+        else:
+            return self.first / self.second
+      
