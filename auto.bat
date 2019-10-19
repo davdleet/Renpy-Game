@@ -1,0 +1,2 @@
+cd C:\Program Files (x86)\Google\Chrome\Application
+chrome.exe https://smartstore.naver.com/dddshop/products/2592824512?NaPm=ct%3Dk0ohykns%7Cci%3Dshopn%7Ctr%3Dhdlt%7Ctrx%3D2138382%7Chk%3Dd057367c28a28da3b8366fac93c1847ad90ead38
