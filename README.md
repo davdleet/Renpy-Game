@@ -1,1 +1,1 @@
-This is a repository containing files from my programming practice
+This is a repository containing files from my python programming practice
